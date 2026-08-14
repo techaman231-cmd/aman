@@ -11,3 +11,17 @@ Collection of Multiple Value: - List, Tuple, Set, Dictionary
 Working with Quotes: - Escape Character, Mixed Quotes, Triple Quotes
 Built in Function: - Input(), Print(), User-Defined()
 Functions Vs Methods: - Work on Either, Work on Specific Data Type
+**String Datatype:- Types, Math, Transformations, Cleaning, Search, Validation**
+**Topics Covered:-** 
+Without Variable
+With Variable using F-String function
+F-String means Formatted String Literal. It is used to easily put variables or expressions inside a string. 
+Escape Sequence
+String- Transformations
+String- Slicing & Indexing
+String- cleaning
+String- Search
+String- Validate
+String- Join
+String- Format
+String- zfill
